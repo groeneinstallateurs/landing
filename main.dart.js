@@ -44369,7 +44369,7 @@ A.B3.prototype={
 a_S(a,b,c){var s,r=null
 if(b==null)return B.a4
 s=A.h9(b,1,B.aQ,r,r,r,r)
-return new A.ea(B.kp,1,r,b.length>12?B.OC:s,r)},
+return new A.ea(B.kp,1,r,b.length>12?B.OD:s,r)},
 J(a){var s=this.d
 if(s instanceof A.l8&&!s.gF8()){s.toString
 s=t.My.a(s).Ey$
@@ -79249,7 +79249,7 @@ q=q.B0(e)}return q}}
 A.qU.prototype={
 J(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.Ll(!0,A.hT(A.ff(A.a([B.OJ,B.xn,A.h9(r==null?"page not found":r,s,s,s,s,s,s),B.xn,new A.B9(new A.a0C(a),B.OI,s)],t.p),B.ab,s,B.fn,B.as),s,s),B.ai,!0)}}
+return A.Ll(!0,A.hT(A.ff(A.a([B.OL,B.xn,A.h9(r==null?"page not found":r,s,s,s,s,s,s),B.xn,new A.B9(new A.a0C(a),B.OK,s)],t.p),B.ab,s,B.fn,B.as),s,s),B.ai,!0)}}
 A.a0C.prototype={
 $0(){return A.a2s(this.a).uh(0,"/",null)},
 $S:0}
@@ -79648,7 +79648,7 @@ return q},
 $S:489}
 A.q6.prototype={
 J(a){var s=null
-return A.a8S(A.X2(s,s,B.OM),A.hT(A.nT(B.P0,new A.WG(a)),s,s))}}
+return A.a8S(A.X2(s,s,B.OO),A.hT(A.nT(B.P0,new A.WG(a)),s,s))}}
 A.WG.prototype={
 $0(){return A.a2s(this.a).uh(0,"/",null)},
 $S:0}
@@ -79674,17 +79674,17 @@ return A.at(["aanhef",s.a,"voornaam",s.b,"achternaam",s.c,"telefoonNummer",s.d,"
 A.og.prototype={
 aj(){return new A.PX(B.i)}}
 A.PX.prototype={
-adP(){var s,r,q,p,o,n=null,m=A.bj(n,B.OT,B.l,n,n,n,n,n,n,B.bP,n,n,n,n),l=A.bj(n,n,B.l,n,n,n,n,n,n,B.by,n,n,n,n),k=A.bj(n,B.OD,B.l,n,n,n,n,n,n,B.bP,n,n,n,n),j=A.bj(n,B.xV,B.l,n,n,n,n,n,n,new A.az(10,10,0,0),n,n,n,n),i=A.Mq(n,n)
+adP(){var s,r,q,p,o,n=null,m=A.bj(n,B.OT,B.l,n,n,n,n,n,n,B.bP,n,n,n,n),l=A.bj(n,n,B.l,n,n,n,n,n,n,B.by,n,n,n,n),k=A.bj(n,B.OE,B.l,n,n,n,n,n,n,B.bP,n,n,n,n),j=A.bj(n,B.xV,B.l,n,n,n,n,n,n,new A.az(10,10,0,0),n,n,n,n),i=A.Mq(n,n)
 i.b2=new A.ag7()
 s=t.VO
 i=A.bj(n,A.a8l(n,n,B.af,n,n,!0,n,A.bT(A.a([A.bT(n,i,B.xR,"\nClick hier voor uw Energiebespaarlening!")],s),n,n,n),B.b0,n,n,1,B.Z),B.l,n,n,n,n,n,n,new A.az(10,0,0,0),n,n,n,n)
-r=A.bj(n,B.OV,B.l,n,n,n,n,n,n,B.bP,n,n,n,n)
-q=A.bj(n,B.OL,B.l,n,n,n,n,n,n,B.bP,n,n,n,n)
+r=A.bj(n,B.OH,B.l,n,n,n,n,n,n,B.bP,n,n,n,n)
+q=A.bj(n,B.ON,B.l,n,n,n,n,n,n,B.bP,n,n,n,n)
 p=A.bj(n,B.xV,B.l,n,n,n,n,n,n,new A.az(10,0,0,0),n,n,n,n)
 o=A.Mq(n,n)
 o.b2=new A.ag8()
-return A.a([B.OX,B.Kt,B.OK,m,l,B.P2,k,B.OP,j,i,r,B.OH,q,p,A.bj(n,A.a8l(n,n,B.af,n,n,!0,n,A.bT(A.a([A.bT(n,o,B.xR,"\nClick hier Salderen is helemaal niet nodig om zonnepanelen rendabel te houden!")],s),n,n,n),B.b0,n,n,1,B.Z),B.l,n,n,n,n,n,n,new A.az(10,0,0,10),n,n,n,n),B.OR,A.bj(n,B.OO,B.l,n,n,n,n,n,n,new A.az(10,10,10,10),n,n,n,n),B.lz,A.hT(A.nT(B.xT,new A.ag9(this)),n,n),B.lz,B.OF],t.p)},
-J(a){var s=null,r=A.X2(A.a([A.nT(B.xT,new A.ag6(this,a))],t.p),!0,B.OQ),q=A.a1(a)
+return A.a([B.OX,B.Kt,B.OM,m,l,B.P2,k,B.OQ,j,i,r,B.OJ,q,p,A.bj(n,A.a8l(n,n,B.af,n,n,!0,n,A.bT(A.a([A.bT(n,o,B.xR,"\nClick hier: Salderen is helemaal niet nodig om zonnepanelen rendabel te houden!")],s),n,n,n),B.b0,n,n,1,B.Z),B.l,n,n,n,n,n,n,new A.az(10,0,0,10),n,n,n,n),B.OR,A.bj(n,B.OU,B.l,n,n,n,n,n,n,new A.az(10,10,10,10),n,n,n,n),B.lz,A.hT(A.nT(B.xT,new A.ag9(this)),n,n),B.lz,B.OG],t.p)},
+J(a){var s=null,r=A.X2(A.a([A.nT(B.xT,new A.ag6(this,a))],t.p),!0,B.OC),q=A.a1(a)
 return A.a8S(r,A.bj(s,A.aoh(this.adP(),s,s,s,!1),B.l,q.cx,s,s,s,s,s,s,B.C5,s,s,s))},
 SC(a){var s=null,r=A.yp(a,!0),q=A.a([],t.Zt),p=$.aj,o=t.Kw,n=t.oe,m=A.p2(B.bM),l=A.a([],t.wi),k=A.e4(s),j=$.aj
 r.jr(new A.yV(new A.aga(),!1,s,B.Am,B.eO,new A.agb(),s,s,s,q,new A.aV(s,t.um),new A.aV(s,t.A),new A.rP(),s,0,new A.bk(new A.av(p,o),n),m,l,B.wp,k,new A.bk(new A.av(j,o),n),t.py))}}
@@ -79755,9 +79755,9 @@ A.Tz.prototype={
 J(a){var s=this,r=null
 return A.a8S(A.X2(r,r,B.A9),A.bj(r,new A.A2(s.UG(),B.KG,s.ay,new A.ajf(s),new A.ajg(s),new A.ajh(new A.aji(s,a)),r),B.l,r,r,r,r,r,r,B.ai,B.ai,r,r,r))},
 UG(){var s=this,r=null,q="[a-zA-Z]+|\\s",p=s.ay,o=p>0?B.xs:B.jE,n=t.p,m=A.asu(A.ff(A.a([A.Ao(s.f,B.CX,r,r,10,new A.ajA()),A.bj(r,A.Ao(s.r,B.CV,r,r,10,new A.ajB()),B.l,r,r,r,r,r,r,B.by,r,r,r,r)],n),B.ab,r,B.b7,B.as),s.d),l=s.ay,k=l>1?B.xs:B.jE,j=s.as,i=t.Pt,h=t.VS
-n=A.asu(A.ff(A.a([A.at0(A.atV(j,new A.ajC(s),B.m2,i),B.OE),A.at0(A.atV(j,new A.ajD(s),B.ir,i),B.OW),A.Ao(s.x,B.CS,A.a([new A.o3(A.bG(q,!0,!1),!0,"")],h),r,60,new A.ajE()),A.bj(r,A.Ao(s.y,B.CW,A.a([new A.o3(A.bG(q,!0,!1),!0,"")],h),r,60,new A.ajF()),B.l,r,r,r,r,r,r,B.by,r,r,r,r),A.bj(r,A.Ao(s.z,B.CT,A.a([new A.o3(A.bG("[0-9]",!0,!1),!0,"")],h),B.L3,15,new A.ajG()),B.l,r,r,r,r,r,r,B.by,r,r,r,r),A.bj(r,A.Ao(s.Q,B.CU,r,B.L4,70,new A.ajH()),B.l,r,r,r,r,r,r,B.by,r,r,r,r)],n),B.ab,r,B.Gs,B.as),s.e)
+n=A.asu(A.ff(A.a([A.at0(A.atV(j,new A.ajC(s),B.m2,i),B.OF),A.at0(A.atV(j,new A.ajD(s),B.ir,i),B.OW),A.Ao(s.x,B.CS,A.a([new A.o3(A.bG(q,!0,!1),!0,"")],h),r,60,new A.ajE()),A.bj(r,A.Ao(s.y,B.CW,A.a([new A.o3(A.bG(q,!0,!1),!0,"")],h),r,60,new A.ajF()),B.l,r,r,r,r,r,r,B.by,r,r,r,r),A.bj(r,A.Ao(s.z,B.CT,A.a([new A.o3(A.bG("[0-9]",!0,!1),!0,"")],h),B.L3,15,new A.ajG()),B.l,r,r,r,r,r,r,B.by,r,r,r,r),A.bj(r,A.Ao(s.Q,B.CU,r,B.L4,70,new A.ajH()),B.l,r,r,r,r,r,r,B.by,r,r,r,r)],n),B.ab,r,B.Gs,B.as),s.e)
 h=s.ay
-return A.a([new A.tF(B.OU,m,o,p>=0),new A.tF(B.OA,n,k,l>=1),new A.tF(B.P_,A.bj(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r),B.jE,h>=2)],t.SV)},
+return A.a([new A.tF(B.OV,m,o,p>=0),new A.tF(B.OA,n,k,l>=1),new A.tF(B.P_,A.bj(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r),B.jE,h>=2)],t.SV)},
 n(){var s=this.r,r=$.aH()
 s.O$=r
 s.M$=0
@@ -79869,7 +79869,7 @@ if(p.at==null)q.push(A.bj(r,A.nT(B.OB,this.b),B.l,r,r,r,r,r,r,B.bP,r,r,r,r))
 if(p.at==null&&p.CW<0)q.push(A.bj(r,B.Oz,B.l,r,r,r,r,r,r,B.bP,r,r,r,r))
 s=p.at
 if(s!=null)q.push(A.bj(r,A.h9("Uw adres:\n"+s.k(0),r,r,r,B.cq,r,r),B.l,r,r,r,r,r,r,B.bP,r,r,r,r))
-if(p.at!=null)q.push(A.bj(r,A.nT(B.ON,this.c.c),B.l,r,r,r,r,r,r,B.bP,r,r,r,r))
+if(p.at!=null)q.push(A.bj(r,A.nT(B.OP,this.c.c),B.l,r,r,r,r,r,r,B.bP,r,r,r,r))
 return q},
 $S:88}
 A.ajs.prototype={
@@ -83810,8 +83810,8 @@ B.l3=new A.TH()
 B.A4=new A.UY()
 B.hF=new A.Y0(0,"pixel")
 B.A8=new A.vW(null,null,null,null,null,null,null)
-B.OG=new A.bt("Vraag offerte aan in 3 stappen",null,null,null,null,null,null,null,null)
-B.A9=new A.nD(B.L,null,null,B.OG,null)
+B.OI=new A.bt("Vraag offerte aan in 3 stappen",null,null,null,null,null,null,null,null)
+B.A9=new A.nD(B.L,null,null,B.OI,null)
 B.Aa=new A.vY(null,null,null,null,null,null,null,null,null)
 B.Ab=new A.vZ(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.hG=new A.dn(0,B.t)
@@ -85945,29 +85945,29 @@ B.Oz=new A.bt("Adres is niet gevonden",null,B.NF,null,null,null,null,null,null)
 B.OA=new A.bt("Uw gegevens",null,null,null,null,null,null,null,null)
 B.xS=new A.bt("Home",null,null,null,null,null,null,null,null)
 B.OB=new A.bt("Controleer uw adres",null,null,null,null,null,null,null,null)
-B.OC=new A.bt("Back",null,null,null,null,null,null,null,null)
+B.OC=new A.bt("De Groene Installateurs     (onze website is simpel en 'to the point', onze installaties ook)",null,null,null,null,null,null,null,null)
+B.OD=new A.bt("Back",null,null,null,null,null,null,null,null)
 B.d3=new A.p(!0,null,null,null,null,null,20,B.w,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OD=new A.bt("Warmtepompen kunnen 1kWh electra omzetten in 3 a\u0301 5 kWh warmte.\nAirco's zijn feitelijk ook warmtepompen en kunnen naast koelen ook verwarmen.\nDus met uw overschot aan energie in de zomer kunt u verwarmen in de winter.\nOp warmtepompen zit een flinke subsidie. Zie opslag voor meer details.",null,B.d3,null,null,null,null,null,null)
-B.OE=new A.bt("de Heer",null,null,null,null,null,null,null,null)
+B.OE=new A.bt("Warmtepompen kunnen 1kWh electra omzetten in 3 a\u0301 5 kWh warmte.\nAirco's zijn feitelijk ook warmtepompen en kunnen naast koelen ook verwarmen.\nDus met uw overschot aan energie in de zomer kunt u verwarmen in de winter.\nOp warmtepompen zit een flinke subsidie. Zie opslag voor meer details.",null,B.d3,null,null,null,null,null,null)
+B.OF=new A.bt("de Heer",null,null,null,null,null,null,null,null)
 B.Nw=new A.p(!0,null,null,null,null,null,15,B.bf,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OF=new A.bt("Email : info@groeneinstallateurs.com tel: 0651119672 adres: Oudaen 26 8219 AB Lelystad  Kvk: 39094040",null,B.Nw,null,null,null,null,null,null)
-B.OH=new A.bt("Stap 4: En moeten we niet energie opslaan voor 's nachts en de winter?",null,B.cq,null,null,null,null,null,null)
+B.OG=new A.bt("Email : info@groeneinstallateurs.com tel: 0651119672 adres: Oudaen 26 8219 AB Lelystad  Kvk: 39094040",null,B.Nw,null,null,null,null,null,null)
+B.OH=new A.bt("Het uit eigen zak betalen is natuurlijk het beste.\nMaar het Nationale Warmtefonds heeft wel een heel mooi aanbod.\nHet fonds wil het mogelijk maken dat iedere eigenaar-bewoner de eigen woning kan verduurzamen. Daarom komen ook huizenbezitters die ouder zijn dan 75 jaar of onvoldoende leenruimte hebben mogelijk in aanmerking voor deze lening.\nMet een beetje selfservice van u en onze hulp vermijden we ook de dure banken.",null,B.d3,null,null,null,null,null,null)
+B.OJ=new A.bt("Stap 4: En moeten we niet energie opslaan voor 's nachts en de winter?",null,B.cq,null,null,null,null,null,null)
 B.Nj=new A.p(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OI=new A.bt("Go to home page",null,B.Nj,null,null,null,null,null,null)
-B.OJ=new A.bt("Page Not Found",null,B.h5,null,null,null,null,null,null)
-B.OK=new A.bt("Stap 1: Hoeveel zonnepanelen kunt u plaatsen en hoeveel energie pakt u van de zon?",null,B.cq,null,null,null,null,null,null)
+B.OK=new A.bt("Go to home page",null,B.Nj,null,null,null,null,null,null)
+B.OL=new A.bt("Page Not Found",null,B.h5,null,null,null,null,null,null)
+B.OM=new A.bt("Stap 1: Hoeveel zonnepanelen kunt u plaatsen en hoeveel energie pakt u van de zon?",null,B.cq,null,null,null,null,null,null)
 B.xT=new A.bt("Maak een vrijblijvende afspraak",null,null,null,null,null,null,null,null)
-B.OL=new A.bt("Wij willen pas accu's gaan installeren als we ermee besparen. Door de salderingsregeling zijn accu's nu tot 2026 niet nodig. Het electriciteitsnet slaat het eigenlijk op. Accu's worden elk jaar beter en goedkoper, dus wij wachten liever nog! Maar kies niet de verkeerde energieleverancier!",null,B.d3,null,null,null,null,null,null)
-B.OM=new A.bt("Informatie over wat wij kunnen doen voor u",null,null,null,null,null,null,null,null)
-B.ON=new A.bt("Vul nu uw gegevens in",null,null,null,null,null,null,null,null)
-B.OO=new A.bt("Wij testen in onze huizen welke oplossingen werken en meteen geld besparen, dit kunnen we met u delen",null,B.d3,null,null,null,null,null,null)
-B.OP=new A.bt("Stap 3: En hoe al dit moois te betalen? ",null,B.cq,null,null,null,null,null,null)
-B.OQ=new A.bt("Groene Installateurs (onze website is goedkoop, onze installaties ook)",null,null,null,null,null,null,null,null)
+B.ON=new A.bt("Wij willen pas accu's gaan installeren als we ermee besparen. Door de salderingsregeling zijn accu's nu tot 2026 niet nodig. Het electriciteitsnet slaat het eigenlijk op. Accu's worden elk jaar beter en goedkoper, dus wij wachten liever nog! Maar kies niet de verkeerde energieleverancier!",null,B.d3,null,null,null,null,null,null)
+B.OO=new A.bt("Informatie over wat wij kunnen doen voor u",null,null,null,null,null,null,null,null)
+B.OP=new A.bt("Vul nu uw gegevens in",null,null,null,null,null,null,null,null)
+B.OQ=new A.bt("Stap 3: En hoe al dit moois te betalen? ",null,B.cq,null,null,null,null,null,null)
 B.OR=new A.bt("Demonstratie:",null,B.cq,null,null,null,null,null,null)
 B.OS=new A.bt("Controleer gegevens",null,null,null,null,null,null,null,null)
 B.OT=new A.bt("In de zomer natuurlijk de meeste zonne energie, maar ook als er wolken zijn en in de winter vangen de panelen ook wat op, en de prijs en effectiviteit van de huidige generatie panelen maakt het zeer interessant.",null,B.d3,null,null,null,null,null,null)
-B.OU=new A.bt("Uw adres",null,null,null,null,null,null,null,null)
-B.OV=new A.bt("Het uit eigen zak betalen is natuurlijk het beste.\nMaar het Nationale Warmtefonds heeft wel een heel mooi aandod.\nHet fonds wil het mogelijk maken dat iedere eigenaar-bewoner de eigen woning kan verduurzamen. Daarom komen ook huizenbezitters die ouder zijn dan 75 jaar of onvoldoende leenruimte hebben mogelijk in aanmerking voor deze lening.\nMet een beetje selfservice van u en onze hulp ermijden we ook de dure banken.",null,B.d3,null,null,null,null,null,null)
+B.OU=new A.bt("Wij testen in onze huizen welke oplossingen werken en meteen geld besparen, dit kunnen we u demonstreren!",null,B.d3,null,null,null,null,null,null)
+B.OV=new A.bt("Uw adres",null,null,null,null,null,null,null,null)
 B.OW=new A.bt("Mevrouw",null,null,null,null,null,null,null,null)
 B.xV=new A.bt("Onze regering doet in ieder geval hier wel iets goed, en helpt op een hele sociale manier!",null,B.d3,null,null,null,null,null,null)
 B.Nx=new A.p(!0,null,null,null,null,null,35,B.bf,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
