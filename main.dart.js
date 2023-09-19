@@ -44369,7 +44369,7 @@ A.B3.prototype={
 a_S(a,b,c){var s,r=null
 if(b==null)return B.a4
 s=A.h9(b,1,B.aQ,r,r,r,r)
-return new A.ea(B.kp,1,r,b.length>12?B.OD:s,r)},
+return new A.ea(B.kp,1,r,b.length>12?B.OE:s,r)},
 J(a){var s=this.d
 if(s instanceof A.l8&&!s.gF8()){s.toString
 s=t.My.a(s).Ey$
@@ -79674,7 +79674,7 @@ return A.at(["aanhef",s.a,"voornaam",s.b,"achternaam",s.c,"telefoonNummer",s.d,"
 A.og.prototype={
 aj(){return new A.PX(B.i)}}
 A.PX.prototype={
-adP(){var s,r,q,p,o,n=null,m=A.bj(n,B.OU,B.l,n,n,n,n,n,n,B.bz,n,n,n,n),l=A.bj(n,n,B.l,n,n,n,n,n,n,B.by,n,n,n,n),k=A.bj(n,B.OE,B.l,n,n,n,n,n,n,B.bz,n,n,n,n),j=A.bj(n,B.OY,B.l,n,n,n,n,n,n,new A.aA(10,10,0,0),n,n,n,n),i=A.Mq(n,n)
+adP(){var s,r,q,p,o,n=null,m=A.bj(n,B.OU,B.l,n,n,n,n,n,n,B.bz,n,n,n,n),l=A.bj(n,n,B.l,n,n,n,n,n,n,B.by,n,n,n,n),k=A.bj(n,B.OC,B.l,n,n,n,n,n,n,B.bz,n,n,n,n),j=A.bj(n,B.OY,B.l,n,n,n,n,n,n,new A.aA(10,10,0,0),n,n,n,n),i=A.Mq(n,n)
 i.b2=new A.ag7()
 s=t.VO
 i=A.bj(n,A.a8l(n,n,B.af,n,n,!0,n,A.bT(A.a([A.bT(n,i,B.xR,"\nClick hier voor uw Energiebespaarlening!")],s),n,n,n),B.b0,n,n,1,B.Z),B.l,n,n,n,n,n,n,new A.aA(10,0,0,0),n,n,n,n)
@@ -79684,7 +79684,7 @@ p=A.bj(n,B.OL,B.l,n,n,n,n,n,n,new A.aA(10,10,0,0),n,n,n,n)
 o=A.Mq(n,n)
 o.b2=new A.ag8()
 return A.a([B.OZ,B.Kt,B.ON,m,l,B.P4,k,B.OQ,j,i,r,B.OJ,q,p,A.bj(n,A.a8l(n,n,B.af,n,n,!0,n,A.bT(A.a([A.bT(n,o,B.xR,"\nClick hier: Salderen is helemaal niet nodig om zonnepanelen rendabel te houden!")],s),n,n,n),B.b0,n,n,1,B.Z),B.l,n,n,n,n,n,n,B.BY,n,n,n,n),B.OR,A.bj(n,B.OV,B.l,n,n,n,n,n,n,B.bz,n,n,n,n),B.lz,A.hT(A.nT(B.xT,new A.ag9(this)),n,n),B.lz,B.OG],t.p)},
-J(a){var s=null,r=A.X2(A.a([A.nT(B.xT,new A.ag6(this,a))],t.p),!0,B.OC),q=A.a1(a)
+J(a){var s=null,r=A.X2(A.a([A.nT(B.xT,new A.ag6(this,a))],t.p),!0,B.OD),q=A.a1(a)
 return A.a8S(r,A.bj(s,A.aoh(this.adP(),s,s,s,!1),B.l,q.cx,s,s,s,s,s,s,B.C5,s,s,s))},
 SC(a){var s=null,r=A.yp(a,!0),q=A.a([],t.Zt),p=$.aj,o=t.Kw,n=t.oe,m=A.p2(B.bN),l=A.a([],t.wi),k=A.e4(s),j=$.aj
 r.jr(new A.yV(new A.aga(),!1,s,B.Al,B.eO,new A.agb(),s,s,s,q,new A.aV(s,t.um),new A.aV(s,t.A),new A.rP(),s,0,new A.bk(new A.av(p,o),n),m,l,B.wp,k,new A.bk(new A.av(j,o),n),t.py))}}
@@ -85946,10 +85946,10 @@ B.Oz=new A.bp("Adres is niet gevonden",null,B.NF,null,null,null,null,null,null)
 B.OA=new A.bp("Uw gegevens",null,null,null,null,null,null,null,null)
 B.xS=new A.bp("Home",null,null,null,null,null,null,null,null)
 B.OB=new A.bp("Controleer uw adres",null,null,null,null,null,null,null,null)
-B.OC=new A.bp("De Groene Installateurs     (onze website is simpel en 'to the point', onze installaties ook)",null,null,null,null,null,null,null,null)
-B.OD=new A.bp("Back",null,null,null,null,null,null,null,null)
 B.cr=new A.p(!0,null,null,null,null,null,20,B.w,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OE=new A.bp("Warmtepompen kunnen 1kWh electra omzetten in 3 a\u0301 5 kWh warmte.\nAirco's zijn feitelijk ook warmtepompen en kunnen naast koelen ook verwarmen.\nDus met uw overschot aan energie in de zomer kunt u verwarmen in de winter.\nOp warmtepompen zit een flinke subsidie. Zie opslag voor meer details.",null,B.cr,null,null,null,null,null,null)
+B.OC=new A.bp("Warmtepompen kunnen 1kWh electra omzetten in 3 a\u0301 5 kWh warmte.\nAirco's zijn feitelijk ook warmtepompen en kunnen naast koelen ook verwarmen.\nDus met uw overschot aan energie in de zomer kunt u verwarmen in de winter.\nOp warmtepompen zit een flinke subsidie. Zie http://www.rvo.nl voor meer details.",null,B.cr,null,null,null,null,null,null)
+B.OD=new A.bp("De Groene Installateurs     (onze website is simpel en 'to the point', onze installaties ook)",null,null,null,null,null,null,null,null)
+B.OE=new A.bp("Back",null,null,null,null,null,null,null,null)
 B.OF=new A.bp("de Heer",null,null,null,null,null,null,null,null)
 B.Nw=new A.p(!0,null,null,null,null,null,15,B.bf,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.OG=new A.bp("Email : info@groeneinstallateurs.com tel: 0651119672 adres: Oudaen 26 8219 AB Lelystad  Kvk: 39094040",null,B.Nw,null,null,null,null,null,null)
